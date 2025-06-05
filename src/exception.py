@@ -1,6 +1,7 @@
 #exception handiling code
 import sys 
 import logging
+from src.logger import logging
 def error_message_detail(error,error_detail: sys):
     _,_,exe_tb=error_detail.exc_info()
     file_name=exe_tb.tb_frame.f_code.co_filename
