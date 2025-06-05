@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 LOG_FILE = f"{datetime.now().strftime('%m-%d_%Y__%H_%M_%S')}.log"
-log_dir = os.path.join(os.getcwd(), 'logs')
+log_path = os.path.join(os.getcwd(), 'logs')
 os.makedirs(log_dir, exist_ok=True)
 LOG_FILE_PATH = os.path.join(log_dir, LOG_FILE)
 
