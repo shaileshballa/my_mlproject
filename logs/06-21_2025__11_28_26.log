@@ -1,0 +1,4 @@
+[2025-06-21 11:28:27,547] 24 root - INFO - Data Ingestion method started
+[2025-06-21 11:28:27,547] 27 root - INFO - Dataset read as pandas dataframe
+[2025-06-21 11:28:27,555] 32 root - INFO - Raw data saved
+[2025-06-21 11:28:27,556] 38 root - INFO - Train and Test data saved

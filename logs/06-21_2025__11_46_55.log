@@ -1,0 +1,7 @@
+[2025-06-21 11:46:56,058] 23 root - INFO - Data Ingestion method started
+[2025-06-21 11:46:56,061] 26 root - INFO - Dataset read as pandas dataframe
+[2025-06-21 11:46:56,064] 31 root - INFO - Raw data saved
+[2025-06-21 11:46:56,067] 37 root - INFO - Train and Test data saved
+[2025-06-21 11:46:56,113] 64 root - INFO - Train columns: ['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course', 'math score', 'reading score', 'writing score']
+[2025-06-21 11:46:56,113] 65 root - INFO - Train and Test data loaded successfully.
+[2025-06-21 11:46:56,113] 47 root - INFO - Pipelines for numeric and categorical features created.
