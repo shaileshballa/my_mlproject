@@ -1,0 +1,10 @@
+[2025-06-23 20:01:58,307] 27 root - INFO - Data Ingestion method started
+[2025-06-23 20:01:58,310] 30 root - INFO - Dataset read as pandas dataframe
+[2025-06-23 20:01:58,313] 35 root - INFO - Raw data saved
+[2025-06-23 20:01:58,317] 40 root - INFO - Train and Test data saved
+[2025-06-23 20:01:58,350] 67 root - INFO - Train and Test data loaded successfully.
+[2025-06-23 20:01:58,351] 50 root - INFO - Pipelines for numeric and categorical features created.
+[2025-06-23 20:01:58,352] 78 root - INFO - Applying transformations.
+[2025-06-23 20:01:58,366] 89 root - INFO - Data transformation completed and preprocessor saved.
+[2025-06-23 20:01:58,367] 56 root - INFO - Data ingestion and transformation completed successfully.
+[2025-06-23 20:01:58,367] 23 root - INFO - Splitting training and testing data
