@@ -1,0 +1,14 @@
+[2025-06-23 22:21:03,732] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-06-23 22:21:03,734] 97 werkzeug - INFO -  * Debugger PIN: 101-521-819
+[2025-06-23 22:21:10,270] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:21:10] "GET /predictdata HTTP/1.1" 200 -
+[2025-06-23 22:21:11,190] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:21:11] "GET /predictdata HTTP/1.1" 200 -
+[2025-06-23 22:21:11,802] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:21:11] "GET /predictdata HTTP/1.1" 200 -
+[2025-06-23 22:21:12,016] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:21:12] "GET /predictdata HTTP/1.1" 200 -
+[2025-06-23 22:21:12,578] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:21:12] "GET /predictdata HTTP/1.1" 200 -
+[2025-06-23 22:21:13,140] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:21:13] "GET /predictdata HTTP/1.1" 200 -
+[2025-06-23 22:21:13,376] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:21:13] "GET /predictdata HTTP/1.1" 200 -
+[2025-06-23 22:21:35,356] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:21:35] "GET /predictdata HTTP/1.1" 200 -
+[2025-06-23 22:21:36,129] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:21:36] "GET /predictdata HTTP/1.1" 200 -
+[2025-06-23 22:22:41,036] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:22:41] "GET /predictdata HTTP/1.1" 200 -
+[2025-06-23 22:22:41,935] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:22:41] "GET /predictdata HTTP/1.1" 200 -
+[2025-06-23 22:22:53,274] 97 werkzeug - INFO -  * Detected change in 'C:\\projects_personal\\mlproject\\app.py', reloading

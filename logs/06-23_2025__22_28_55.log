@@ -1,0 +1,13 @@
+[2025-06-23 22:28:55,872] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-06-23 22:28:55,874] 97 werkzeug - INFO -  * Debugger PIN: 101-521-819
+[2025-06-23 22:29:03,623] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:29:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-06-23 22:29:03,846] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:29:03] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-06-23 22:29:03,847] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:29:03] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-06-23 22:29:03,890] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:29:03] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=UoqmyrfH4RjKxW4E4b9E HTTP/1.1" 200 -
+[2025-06-23 22:29:03,913] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:29:03] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-06-23 22:29:04,595] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:29:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-06-23 22:29:04,717] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:29:04] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-06-23 22:29:04,722] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:29:04] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-06-23 22:29:04,934] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:29:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=UoqmyrfH4RjKxW4E4b9E HTTP/1.1[0m" 304 -
+[2025-06-23 22:29:04,979] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:29:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-06-23 22:29:30,436] 97 werkzeug - INFO -  * Detected change in 'C:\\projects_personal\\mlproject\\app.py', reloading

@@ -1,0 +1,7 @@
+[2025-06-23 22:18:42,589] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-06-23 22:18:42,591] 97 werkzeug - INFO -  * Debugger PIN: 101-521-819
+[2025-06-23 22:18:49,562] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:18:49] "GET / HTTP/1.1" 200 -
+[2025-06-23 22:19:48,607] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:19:48] "GET /predictdata HTTP/1.1" 200 -
+[2025-06-23 22:19:54,010] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:19:54] "GET /predictdata HTTP/1.1" 200 -
+[2025-06-23 22:19:56,776] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 22:19:56] "GET /predictdata HTTP/1.1" 200 -
+[2025-06-23 22:20:37,685] 97 werkzeug - INFO -  * Detected change in 'C:\\projects_personal\\mlproject\\app.py', reloading
